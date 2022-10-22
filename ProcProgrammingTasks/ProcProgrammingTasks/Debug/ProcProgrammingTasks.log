@@ -1,0 +1,6 @@
+﻿  ProcProgrammingTasks.cpp
+d:\cppfiles\mirea\procprogrammingtasks\procprogrammingtasks\functions.h(19): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cppfiles\mirea\procprogrammingtasks\procprogrammingtasks\functions.h(30): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cppfiles\mirea\procprogrammingtasks\procprogrammingtasks\functions.h(41): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cppfiles\mirea\procprogrammingtasks\procprogrammingtasks\procprogrammingtasks.cpp(249): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ProcProgrammingTasks.vcxproj -> D:\CppFiles\mirea\ProcProgrammingTasks\Debug\ProcProgrammingTasks.exe
